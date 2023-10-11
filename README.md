@@ -1,6 +1,6 @@
 ## DESAFIO-DIO_IPHONE
 
-Projeto de modelagem e diagramação de representação em UML e código no que se refere ao equipamento iPhone.
+Projeto de modelagem e diagramação da representação em UML e código no que se refere ao equipamento iPhone.
 
 Componentes esperados:
 

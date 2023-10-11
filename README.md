@@ -8,5 +8,5 @@ Componentes esperados:
 * Aparelho telefônico: ligar, atender, iniciarCorreioVoz.
 * Navegador na internet: exibirPagina, adicionarNovaAba, atualizarPagina.
 
-<https://github.com/fellipecarllos/desafio-dio-iphone/blob/main/src/resources/images/uml-desafio.png?raw=true>
-<img src="/src/resources/images/uml-desafio.png>
+<img src="https://github.com/fellipecarllos/desafio-dio-iphone/blob/main/src/resources/images/uml-desafio.png?raw=true"/>
+
